@@ -4,7 +4,7 @@ how it works:
         execute the script without any option:
             ./main
 
-    GET a summery of logs from server:
+    GET a summary of all logs:
             ./main show
 
     POST new logs to server:
